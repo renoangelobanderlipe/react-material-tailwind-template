@@ -1,6 +1,6 @@
 # React Material Tailwind Template
 
-This template provides a solid foundation for building React applications with Material-UI for UI components and Tailwind CSS for styling. It comes pre-configured with commonly used packages and follows a structured folder organization for an efficient development workflow.
+This template provides a solid foundation for building React applications with Material-Tailwind for UI components and Tailwind CSS for styling. It comes pre-configured with commonly used packages and follows a structured folder organization for an efficient development workflow.
 ```bash
 /src
 |-- /pages
@@ -21,7 +21,7 @@ This template provides a solid foundation for building React applications with M
 ## Features
 
 - **React**: Utilize the power of React for building dynamic and interactive user interfaces.
-- **Material-UI**: Incorporate Material-UI components to ensure a consistent and visually appealing design.
+- **Material-Tailwind**: Incorporate Material-Tailwind components to ensure a consistent and visually appealing design.
 - **Tailwind CSS**: Leverage the utility-first CSS framework to streamline styling and customization.
 - **Routing**: Implement efficient page routing using React Router for seamless navigation.
 - **Custom Hooks**: Organize and reuse logic with custom hooks stored in the `/hooks` directory.
@@ -35,7 +35,7 @@ This template provides a solid foundation for building React applications with M
 ### Dependencies
 
 - **@material-tailwind/react**: v2.1.4
-  - Description: Provides Material Design components styled with Tailwind CSS.
+  - Description: Provides Material Tailwind components styled with Tailwind CSS.
   
 - **apisauce**: v1.1.5
   - Description: A declarative API wrapper using axios.
